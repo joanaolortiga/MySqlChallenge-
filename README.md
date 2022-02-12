@@ -1,2 +1,1 @@
-# MySqlChallenge-
-Challenge MySql
+Este trabajo fue realizado con MySQL Workbench
